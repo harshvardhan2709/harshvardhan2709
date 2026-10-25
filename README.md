@@ -1,5 +1,3 @@
-# Harshvardhan Sawant
-
 **Full Stack Developer** · Pune, Maharashtra, India
 
 [Portfolio](https://harshvardhan-sawant-27.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/harshvardhan-sawant-86656b266/) · [Email](mailto:sawantharsh2022@gmail.com)
